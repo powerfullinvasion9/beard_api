@@ -1,4 +1,11 @@
 # Beard_api
+
+## Clone
+
+```bash
+git clone git@github.com:powerfullinvasion9/beard_api.git
+```
+
 ## Starting
 
 ```bash
@@ -11,6 +18,7 @@ poetry shell
 ## Usage
 
 ```bash
+cd beard
 python3 manage.py runserver
 ```
 
